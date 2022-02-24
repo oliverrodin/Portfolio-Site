@@ -1,0 +1,45 @@
+{
+    "education": [
+        {
+            "year":"2021 - pågående", 
+            "direction":"Systemutvecklare.NET", 
+            "school":"Edugrade"
+        },
+        {
+            "year":"2016 - 2017",
+            "direction":"Studio & Ljudteknik", 
+            "school":"Bromma Folkhögskola"
+        },
+        {
+            "year":"2014 - 2015", 
+            "direction":"Musikproduktion", 
+            "school":"Liljeholmens Folkhögskola"
+        },
+        {
+            "year":"2011 - 2014", 
+            "direction":"Estetiskaprogrammet", 
+            "school":"Torsbergsgymnasiet"
+        }
+    ],
+
+    "work": [
+        {
+            "year":"2015 - pågående", 
+            "company":"Enskild firma", 
+            "role":"Ljudtekniker, designer", 
+            "about": "Turnerande tekniker/designer, har gjort allt från enstaka gig, event och föreläsningar till längre turnéer där ljuddesignen har legat i fokus. På senare år har jag jobbat med bl.a Från Broadway Till Duvemåla och Pernilla Wahlgren."
+        },
+        {
+            "year":"2019 - 2021", 
+            "company":"ICA Kvantum, Bollnäs", 
+            "role":"Butiksmedarbetare", 
+            "about": "När pandemin slog till vände jag hem och jobbade på Ica. Stort fokus på den blomstrande online-handeln, där jag även klivit in som ansvarig under kortare perioder."
+        },
+        {
+            "year":"2017 - 2018", 
+            "company":"STHLM Stage and Music", 
+            "role":"Ljudtekniker", 
+            "about": "Kort anställning på PA:firma, stort fokus på projektering av event och live-gig. "
+        }
+    ]
+}
